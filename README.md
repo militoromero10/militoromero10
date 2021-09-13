@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @militoromero10
 - 👀 I’m interested in develop backend components and ML mainly
 - 🌱 I’m currently learning Scala, Go and ML
-- 💞️ I’m looking to collaborate on projects with Spring, Docker, K8S even with topics as ML
+- 💞️ I’m looking to collaborate on projects with Spring, Docker, K8S even with topics like ML
 - 📫 How to reach me: rocaminos@hotmail.com / militoromero10@gmail.com
 
 <!---
